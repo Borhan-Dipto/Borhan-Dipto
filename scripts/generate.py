@@ -136,7 +136,7 @@ STACK = [
     ("backend", ["Supabase", "PostgreSQL + RLS", "MongoDB", "Laravel 12", "Filament"]),
     ("auth", ["Supabase Auth", "Better Auth", "TOTP 2-step login"]),
     ("growth", ["Meta Pixel + CAPI", "GA4", "GTM", "Graph API auto-posting"]),
-    ("ship", ["Vercel", "GitHub Actions", "Cloudinary", "Resend"]),
+    ("ship", ["Vercel", "AWS (certified)", "GitHub Actions", "Cloudinary", "Resend"]),
 ]
 
 

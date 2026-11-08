@@ -24,7 +24,7 @@ Visit the live sites: [obsidianwearbd.store](https://obsidianwearbd.store) · [v
 
 <br />
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack. Frontend: Next.js, React 19, TypeScript, Tailwind CSS, Radix UI. Backend: Supabase, PostgreSQL with RLS, MongoDB, Laravel 12, Filament. Auth: Supabase Auth, Better Auth, TOTP 2-step login. Growth: Meta Pixel and CAPI, GA4, GTM, Graph API auto-posting. Ship: Vercel, GitHub Actions, Cloudinary, Resend." />
+<img src="./assets/stack.svg" width="100%" alt="Tech stack. Frontend: Next.js, React 19, TypeScript, Tailwind CSS, Radix UI. Backend: Supabase, PostgreSQL with RLS, MongoDB, Laravel 12, Filament. Auth: Supabase Auth, Better Auth, TOTP 2-step login. Growth: Meta Pixel and CAPI, GA4, GTM, Graph API auto-posting. Ship: Vercel, AWS (certified), GitHub Actions, Cloudinary, Resend." />
 
 <br />
 
