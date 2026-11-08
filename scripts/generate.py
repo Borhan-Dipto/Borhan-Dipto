@@ -136,7 +136,7 @@ STACK = [
     ("backend", ["Supabase", "PostgreSQL + RLS", "MongoDB", "Laravel 12", "Filament"]),
     ("auth", ["Supabase Auth", "Better Auth", "TOTP 2-step login"]),
     ("growth", ["Meta Pixel + CAPI", "GA4", "GTM", "Graph API auto-posting"]),
-    ("ship", ["Vercel", "AWS (certified)", "GitHub Actions", "Cloudinary", "Resend"]),
+    ("ship", ["Vercel", "AWS (Academy)", "GitHub Actions", "Cloudinary", "Resend"]),
 ]
 
 
@@ -173,6 +173,7 @@ if __name__ == "__main__":
     for slug, cmd, label in [
         ("about", "cat about.md", "About"),
         ("projects", "systemctl status --shipped", "Projects in production"),
+        ("certs", "ls ~/certs", "Certifications"),
         ("contact", "mail borhan", "Contact"),
     ]:
         write(f"cmd-{slug}.svg", divider(cmd, label))

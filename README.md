@@ -24,7 +24,18 @@ Visit the live sites: [obsidianwearbd.store](https://obsidianwearbd.store) · [v
 
 <br />
 
-<img src="./assets/stack.svg" width="100%" alt="Tech stack. Frontend: Next.js, React 19, TypeScript, Tailwind CSS, Radix UI. Backend: Supabase, PostgreSQL with RLS, MongoDB, Laravel 12, Filament. Auth: Supabase Auth, Better Auth, TOTP 2-step login. Growth: Meta Pixel and CAPI, GA4, GTM, Graph API auto-posting. Ship: Vercel, AWS (certified), GitHub Actions, Cloudinary, Resend." />
+<img src="./assets/stack.svg" width="100%" alt="Tech stack. Frontend: Next.js, React 19, TypeScript, Tailwind CSS, Radix UI. Backend: Supabase, PostgreSQL with RLS, MongoDB, Laravel 12, Filament. Auth: Supabase Auth, Better Auth, TOTP 2-step login. Growth: Meta Pixel and CAPI, GA4, GTM, Graph API auto-posting. Ship: Vercel, AWS (Academy), GitHub Actions, Cloudinary, Resend." />
+
+<br />
+
+<img src="./assets/cmd-certs.svg" width="100%" alt="Certifications" />
+
+<p>
+  <a href="https://www.credly.com/badges/bb84ce76-2a91-448f-b7ca-232587d3acc5"><img src="https://images.credly.com/images/07c356e3-8132-4a6c-a471-e16a04fb148c/linkedin_thumb_blob" width="110" alt="AWS Academy Graduate: Introduction to Cloud, Semester 1" /></a>
+  <a href="https://www.credly.com/badges/687648bd-559c-4424-84e0-71cbbc27ab84"><img src="https://images.credly.com/images/b5e6174a-5393-46c7-85e5-ebdb6d025ffd/linkedin_thumb_blob" width="110" alt="AWS Academy Graduate: Introduction to Cloud, Semester 2" /></a>
+</p>
+
+**AWS Academy Graduate**, Introduction to Cloud, Semesters 1 and 2. Issued by Amazon Web Services Training and Certification, verified on Credly.
 
 <br />
 
