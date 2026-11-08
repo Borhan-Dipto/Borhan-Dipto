@@ -1,0 +1,2 @@
+Subsets of Martian Mono and IBM Plex Mono, both licensed under the SIL Open Font License 1.1.
+They are embedded in the SVGs so the graphics look the same on every device.
